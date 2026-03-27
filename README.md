@@ -18,6 +18,8 @@ Nine blocks (3 red, 3 yellow, 3 green) are randomly placed in mixed stacks of th
 ## Demo
 [![Demo](https://www.youtube.com/shorts/5aZUeXfgOFo.jpg)]https://www.youtube.com/shorts/5aZUeXfgOFo)
 
+---
+
 ## How It Works
 
 The robot uses image processing to detect the color of the top block in each stack. Based on the result, it picks the block and places it in the correct sorted stack. This process repeats until all blocks are sorted.
